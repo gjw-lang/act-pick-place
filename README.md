@@ -22,7 +22,7 @@ python scripts/deploy_act.py
 
 ## Rollout 演示
 
-点击查看 rollout 录屏。
+![ACT Rollout](rollout.gif)
 
 ## 致谢
 
