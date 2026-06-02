@@ -1,0 +1,16 @@
+demo_data/
+demo_data_extra/
+demo_data_old/
+demo_data_150backup/
+demo_data_100/
+demo_data_tmp/
+demo_data_clean/
+.hf_cache_py310/
+/tmp/
+*.pyc
+__pycache__/
+ckpt/
+.vscode/
+*.mkv
+*.mp4
+*.gif
