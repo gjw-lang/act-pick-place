@@ -23,7 +23,7 @@ python scripts/deploy_act.py
 ## Rollout 演示
 
 点击查看 rollout 录屏。
-
+https://github.com/gjw-lang/act-pick-place/blob/main/rollout.gif
 ## 致谢
 
 - ACT 论文: [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705)
