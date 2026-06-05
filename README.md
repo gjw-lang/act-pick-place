@@ -10,6 +10,7 @@
 
 ## Rollout 演示
 
+<<<<<<< HEAD
 ![ACT Rollout](rollout.gif)
 
 ---
@@ -94,6 +95,10 @@ MuJoCo 窗口弹出后，ACT 策略自动控制机械臂执行抓取任务。终
 
 ---
 
+=======
+点击查看 rollout 录屏。
+https://github.com/gjw-lang/act-pick-place/blob/main/rollout.gif
+>>>>>>> 4939fb4b8fb14535edfb554d5dbc626225854dab
 ## 致谢
 
 - ACT 论文: [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705) (RSS 2023)
